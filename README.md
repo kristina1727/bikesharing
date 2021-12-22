@@ -3,6 +3,6 @@
 
 
 ## Overview
-
+Purpose of this analysis was to utilize Tableau to analyze the Citi Bike data to determine what data would be applicable to implementing a similar bike sharing program in Des Moines, IA.
 
 ## Results
