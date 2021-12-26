@@ -39,3 +39,5 @@ Shows that the top ending locations are near other public transportation hubs, n
 Overall, we are able to determine that males tend to make up the majority of our customer base, though gender does not tend to have an effect on the trip duration or the time in which the bikes are utilized. We are also able to see that Subscribers make up the mojority of our customer base.
 
 Two additional visualiztions that could be completed with the dataset would be the average trip duration by age and gender and a comparison of the top starting and ending locations. Though the data is not available here, it would be interesting to dive deeper into those bikes that were most heavily utilized to determine if it was their placement on the bike rack that cause them to be most heavily used. 
+
+Link to dashboard (https://public.tableau.com/app/profile/kristina.engle5148/viz/Module14Challenge-CitiBikeAnalysis/CitiBike?publish=yes)
